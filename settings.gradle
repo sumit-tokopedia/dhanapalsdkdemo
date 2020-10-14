@@ -1,0 +1,4 @@
+//include ':sdkdhanapala-debug'
+include ':sdkdhanapala-release'
+include ':app'
+rootProject.name = "DhanapalaDemo"
